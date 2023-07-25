@@ -1,5 +1,6 @@
 #include <stdarg.h>
 #include <unistd.h>
+#include "main.h"
 
 /**
 * _putchar - Writes a character to the standard output (file descriptor 1)
